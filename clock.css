@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:plum;
+}
+.container {
+    
+    height: 100vh;
+    margin-top:300px;
+    margin-left:560px;
+    text-align: center;
+  }
+  .card{
+
+  height: 150px;
+  width: 400px;
+  border-radius:25px;
+  background-color: aliceblue;
+  box-shadow: 26px;  
+  text-align: center;
+  
+  }
+  .ss{
+    display: flex;
+    text-shadow: 2px 2px 5px #333;
+    padding-bottom: 25px;
+    gap: 23px;
+    margin-left: 111px;
+    color: #615f5f;
+
+
+    
+  }
+  .u{
+    margin-top: 10px;
+  }
+  #start-btn{
+    height: 30px;
+    width:42px;
+    border-radius: 5px;
+    background-color: rgb(28, 218, 28);
+  }
+  #stop-btn{
+    height: 30px;
+    width:42px;
+    border-radius: 5px;
+    background-color:rgba(255, 0, 0, 0.937)
+  }
+  
